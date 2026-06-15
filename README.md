@@ -82,14 +82,13 @@ La trayectoria temporal del dinero evidencia cómo la fricción erosiona la cuen
 1. Clona este repositorio:
 ```bash
    git clone [https://github.com/tu-usuario/trader-vs-pasivo-sim.git](https://github.com/tu-usuario/trader-vs-pasivo-sim.git)
-```bash
+
 
 2. Instala las dependencias requeridas:
 ```bash
    pip install numpy matplotlib pandas
-```bash
 
 3. Ejecuta el script de simulación para generar los gráficos:
 ```bash
    python trading_vs_passive.py
-```bash
+
